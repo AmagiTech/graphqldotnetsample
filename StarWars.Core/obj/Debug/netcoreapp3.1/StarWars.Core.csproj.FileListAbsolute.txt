@@ -1,0 +1,9 @@
+C:\Users\muharrem\source\repos\StarWars\StarWars.Core\bin\Debug\netcoreapp3.1\StarWars.Core.deps.json
+C:\Users\muharrem\source\repos\StarWars\StarWars.Core\bin\Debug\netcoreapp3.1\StarWars.Core.dll
+C:\Users\muharrem\source\repos\StarWars\StarWars.Core\bin\Debug\netcoreapp3.1\StarWars.Core.pdb
+C:\Users\muharrem\source\repos\StarWars\StarWars.Core\obj\Debug\netcoreapp3.1\StarWars.Core.AssemblyInfoInputs.cache
+C:\Users\muharrem\source\repos\StarWars\StarWars.Core\obj\Debug\netcoreapp3.1\StarWars.Core.AssemblyInfo.cs
+C:\Users\muharrem\source\repos\StarWars\StarWars.Core\obj\Debug\netcoreapp3.1\StarWars.Core.dll
+C:\Users\muharrem\source\repos\StarWars\StarWars.Core\obj\Debug\netcoreapp3.1\StarWars.Core.pdb
+C:\Users\muharrem\source\repos\StarWars\StarWars.Core\bin\Debug\netcoreapp3.1\StarWars.Core.runtimeconfig.json
+C:\Users\muharrem\source\repos\StarWars\StarWars.Core\bin\Debug\netcoreapp3.1\StarWars.Core.runtimeconfig.dev.json

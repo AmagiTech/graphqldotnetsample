@@ -1,0 +1,13 @@
+C:\Users\muharrem\source\repos\StarWars\StarWars.Data\bin\Debug\netcoreapp3.1\StarWars.Data.deps.json
+C:\Users\muharrem\source\repos\StarWars\StarWars.Data\bin\Debug\netcoreapp3.1\StarWars.Data.dll
+C:\Users\muharrem\source\repos\StarWars\StarWars.Data\bin\Debug\netcoreapp3.1\StarWars.Data.pdb
+C:\Users\muharrem\source\repos\StarWars\StarWars.Data\bin\Debug\netcoreapp3.1\StarWars.Core.dll
+C:\Users\muharrem\source\repos\StarWars\StarWars.Data\bin\Debug\netcoreapp3.1\StarWars.Core.pdb
+C:\Users\muharrem\source\repos\StarWars\StarWars.Data\obj\Debug\netcoreapp3.1\StarWars.Data.csprojAssemblyReference.cache
+C:\Users\muharrem\source\repos\StarWars\StarWars.Data\obj\Debug\netcoreapp3.1\StarWars.Data.AssemblyInfoInputs.cache
+C:\Users\muharrem\source\repos\StarWars\StarWars.Data\obj\Debug\netcoreapp3.1\StarWars.Data.AssemblyInfo.cs
+C:\Users\muharrem\source\repos\StarWars\StarWars.Data\obj\Debug\netcoreapp3.1\StarWars.Data.csproj.CopyComplete
+C:\Users\muharrem\source\repos\StarWars\StarWars.Data\obj\Debug\netcoreapp3.1\StarWars.Data.dll
+C:\Users\muharrem\source\repos\StarWars\StarWars.Data\obj\Debug\netcoreapp3.1\StarWars.Data.pdb
+C:\Users\muharrem\source\repos\StarWars\StarWars.Data\bin\Debug\netcoreapp3.1\StarWars.Data.runtimeconfig.json
+C:\Users\muharrem\source\repos\StarWars\StarWars.Data\bin\Debug\netcoreapp3.1\StarWars.Data.runtimeconfig.dev.json
